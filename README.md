@@ -6,7 +6,7 @@ I am Raymond Colon Serrano. I am an aspiring software engineer from Puerto Rico 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raymond-colon-serrano-91000a243/)   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@ray.j.colon) ![Gmail Badge](https://img.shields.io/badge/-ray.j.colon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ray.j.colon@gmail.com)
 
 
-- 🔭 I’m currently working on Infinite Accel a retro 2D game!
+- 🔭 I’m currently working on Star Momentum a retro 2D game!
 - 🌱 I’m currently learning Using Unity and C# development
 - ⚡ Fun fact: I am an amateur photogarapher and love nature.
 
