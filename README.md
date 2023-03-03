@@ -3,11 +3,13 @@
 
 I am Raymond Colon Serrano. I am an aspiring software engineer from Puerto Rico 🇵🇷, currently studying at Holberton Coding School in San Juan. I love new challenges and writing clean and efficient code.  You can find out more and feel free to connect with me here:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raymond-colon-serrano-91000a243/)   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@ray.j.colon) ![Gmail Badge](https://img.shields.io/badge/-ray.j.colon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ray.j.colon@gmail.com) <a class="button" href="https://www.linkedin.com/in/raymond-colon-serrano-91000a243/overlay/1635518477767/single-media-viewer/?profileId=ACoAADxV-JwBT52E9lWLeehar6mAYmgWOUOdrjA"><img width="80" alt="Resume Button" src="https://user-images.githubusercontent.com/104580766/222666024-177534dc-3881-40b2-a360-f2fa30fce7e3.png"></a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raymond-colon-serrano-91000a243/)   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@ray.j.colon) <a href='Raymond_ColonSerrano_Resume-2.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3> ![Gmail Badge](https://img.shields.io/badge/-ray.j.colon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ray.j.colon@gmail.com)
 
 
 - 🔭 I’m currently working on Star Momentum a retro 2D game!
+
 - 🌱 I’m currently learning Using Unity and C# development
+
 - ⚡ Fun fact: I am an amateur photogarapher and love nature.
 
 <h2> Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
